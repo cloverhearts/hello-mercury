@@ -1,6 +1,6 @@
 {
   "name": "hello-mercury",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Mercury note sample npm package",
   "main": "index.js",
   "repository": {
