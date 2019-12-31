@@ -1,6 +1,8 @@
 # hello-mercury
 Mercury note sample package
 
+[Go to Mercury app](https://github.com/cloverhearts/mercury)
+
 ## How to use
 
 ```javascript
