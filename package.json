@@ -1,0 +1,23 @@
+{
+  "name": "hello-mercury",
+  "version": "1.0.0",
+  "description": "Mercury note sample npm package",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cloverhearts/hello-mercury.git"
+  },
+  "keywords": [
+    "mercury",
+    "sample",
+    "note",
+    "hello",
+    "world"
+  ],
+  "author": "cloverhearts",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cloverhearts/hello-mercury/issues"
+  },
+  "homepage": "https://github.com/cloverhearts/hello-mercury#readme"
+}
